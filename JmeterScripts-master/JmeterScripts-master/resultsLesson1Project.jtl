@@ -1,0 +1,71 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1637841531375,893,SignIn-0,200,,PetShopThreadGroup 1-1,text,true,,1442,667,1,1,https://petstore.octoperf.com/,893,0,730
+1637841532269,166,SignIn-1,200,,PetShopThreadGroup 1-1,text,true,,5419,737,1,1,https://petstore.octoperf.com/actions/Catalog.action,166,0,0
+1637841532436,165,SignIn-2,200,,PetShopThreadGroup 1-1,text,true,,4406,771,1,1,https://petstore.octoperf.com/actions/Account.action?signonForm=,165,0,0
+1637841532601,340,SignIn-3,200,,PetShopThreadGroup 1-1,text,true,,5897,2075,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=341028A496D69B425414CEBD21C9DB59,174,0,0
+1637841532601,174,SignIn-3-0,302,,PetShopThreadGroup 1-1,,true,,337,1146,1,1,https://petstore.octoperf.com/actions/Account.action,174,0,0
+1637841532775,166,SignIn-3-1,200,,PetShopThreadGroup 1-1,text,true,,5560,929,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=341028A496D69B425414CEBD21C9DB59,166,0,0
+1637841532941,166,SignIn-4,200,,PetShopThreadGroup 1-1,text,true,,5419,797,1,1,https://petstore.octoperf.com/actions/Catalog.action,166,0,0
+1637841533107,164,BuyCat-0,200,,PetShopThreadGroup 1-1,text,true,,4019,789,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS,164,0,0
+1637841533271,170,BuyCat-1,200,,PetShopThreadGroup 1-1,text,true,,4551,822,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=FL-DSH-01,170,0,0
+1637841533442,338,SignOut-0,200,,PetShopThreadGroup 1-1,text,true,,5712,1591,1,1,https://petstore.octoperf.com/actions/Catalog.action,167,0,0
+1637841533442,167,SignOut-0-0,302,,PetShopThreadGroup 1-1,,true,,293,800,1,1,https://petstore.octoperf.com/actions/Account.action?signoff=,167,0,0
+1637841533609,171,SignOut-0-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,171,0,0
+1637841533780,168,SignOut-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,168,0,0
+1637841533948,0,Debug Sampler,200,OK,PetShopThreadGroup 1-1,text,true,,329,0,1,1,null,0,0,0
+1637841998816,2054,SignIn-0,200,,PetShopThreadGroup 1-1,text,true,,1442,667,1,1,https://petstore.octoperf.com/,2054,0,1871
+1637842000884,792,SignIn-1,200,,PetShopThreadGroup 1-1,text,true,,5419,737,1,1,https://petstore.octoperf.com/actions/Catalog.action,792,0,0
+1637842001677,570,SignIn-2,200,,PetShopThreadGroup 1-1,text,true,,4410,771,1,1,https://petstore.octoperf.com/actions/Account.action?signonForm=,395,0,0
+1637842002247,1138,SignIn-3,200,,PetShopThreadGroup 1-1,text,true,,5897,2075,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=6B74302315D50BD78E322D34FA1D5046,492,0,0
+1637842002247,492,SignIn-3-0,302,,PetShopThreadGroup 1-1,,true,,337,1146,1,1,https://petstore.octoperf.com/actions/Account.action,492,0,0
+1637842002740,645,SignIn-3-1,200,,PetShopThreadGroup 1-1,text,true,,5560,929,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=6B74302315D50BD78E322D34FA1D5046,645,0,0
+1637842003388,181,SignIn-4,200,,PetShopThreadGroup 1-1,text,true,,5419,797,1,1,https://petstore.octoperf.com/actions/Catalog.action,180,0,0
+1637842003571,177,BuyCat-0,200,,PetShopThreadGroup 1-1,text,true,,4019,789,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS,177,0,0
+1637842003750,176,BuyCat-1,200,,PetShopThreadGroup 1-1,text,true,,4551,822,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=FL-DSH-01,175,0,0
+1637842003926,343,SignOut-0,200,,PetShopThreadGroup 1-1,text,true,,5712,1591,1,1,https://petstore.octoperf.com/actions/Catalog.action,172,0,0
+1637842003926,172,SignOut-0-0,302,,PetShopThreadGroup 1-1,,true,,293,800,1,1,https://petstore.octoperf.com/actions/Account.action?signoff=,172,0,0
+1637842004098,171,SignOut-0-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,170,0,0
+1637842004272,176,SignOut-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,175,0,0
+1637842004453,2,Debug Sampler,200,OK,PetShopThreadGroup 1-1,text,true,,329,0,1,1,null,0,0,0
+1637842044886,1423,SignIn-0,200,,PetShopThreadGroup 1-1,text,true,,1442,667,1,1,https://petstore.octoperf.com/,1423,0,1238
+1637842046319,177,SignIn-1,200,,PetShopThreadGroup 1-1,text,true,,5419,737,1,1,https://petstore.octoperf.com/actions/Catalog.action,177,0,0
+1637842046499,858,SignIn-2,200,,PetShopThreadGroup 1-1,text,true,,4408,771,1,1,https://petstore.octoperf.com/actions/Account.action?signonForm=,185,0,0
+1637842047358,530,SignIn-3,200,,PetShopThreadGroup 1-1,text,true,,5897,2075,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=34EF2FFA51AA8565402BE2949709690C,179,0,0
+1637842047358,179,SignIn-3-0,302,,PetShopThreadGroup 1-1,,true,,337,1146,1,1,https://petstore.octoperf.com/actions/Account.action,179,0,0
+1637842047540,348,SignIn-3-1,200,,PetShopThreadGroup 1-1,text,true,,5560,929,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=34EF2FFA51AA8565402BE2949709690C,348,0,0
+1637842047890,176,SignIn-4,200,,PetShopThreadGroup 1-1,text,true,,5419,797,1,1,https://petstore.octoperf.com/actions/Catalog.action,176,0,0
+1637842048067,179,BuyCat-0,200,,PetShopThreadGroup 1-1,text,true,,4019,789,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS,179,0,0
+1637842048247,185,BuyCat-1,200,,PetShopThreadGroup 1-1,text,true,,4551,822,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=FL-DSH-01,185,0,0
+1637842048433,348,SignOut-0,200,,PetShopThreadGroup 1-1,text,true,,5712,1591,1,1,https://petstore.octoperf.com/actions/Catalog.action,174,0,0
+1637842048433,174,SignOut-0-0,302,,PetShopThreadGroup 1-1,,true,,293,800,1,1,https://petstore.octoperf.com/actions/Account.action?signoff=,174,0,0
+1637842048608,173,SignOut-0-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,173,0,0
+1637842048782,175,SignOut-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,175,0,0
+1637842048960,1,Debug Sampler,200,OK,PetShopThreadGroup 1-1,text,true,,329,0,1,1,null,0,0,0
+1637842157174,1598,SignIn-0,200,,PetShopThreadGroup 1-1,text,true,,1442,667,1,1,https://petstore.octoperf.com/,1598,0,1406
+1637842158783,184,SignIn-1,200,,PetShopThreadGroup 1-1,text,true,,5419,737,1,1,https://petstore.octoperf.com/actions/Catalog.action,184,0,0
+1637842158969,182,SignIn-2,200,,PetShopThreadGroup 1-1,text,true,,4408,771,1,1,https://petstore.octoperf.com/actions/Account.action?signonForm=,182,0,0
+1637842159152,375,SignIn-3,200,,PetShopThreadGroup 1-1,text,true,,5897,2075,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=D1F7A037F564DE40EB1569C516E9C862,182,0,0
+1637842159152,182,SignIn-3-0,302,,PetShopThreadGroup 1-1,,true,,337,1146,1,1,https://petstore.octoperf.com/actions/Account.action,182,0,0
+1637842159335,192,SignIn-3-1,200,,PetShopThreadGroup 1-1,text,true,,5560,929,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=D1F7A037F564DE40EB1569C516E9C862,185,0,0
+1637842159527,179,SignIn-4,200,,PetShopThreadGroup 1-1,text,true,,5419,797,1,1,https://petstore.octoperf.com/actions/Catalog.action,179,0,0
+1637842159707,187,BuyCat-0,200,,PetShopThreadGroup 1-1,text,true,,4019,789,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS,187,0,0
+1637842159894,183,BuyCat-1,200,,PetShopThreadGroup 1-1,text,true,,4551,822,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=FL-DSH-01,183,0,0
+1637842160077,359,SignOut-0,200,,PetShopThreadGroup 1-1,text,true,,5712,1591,1,1,https://petstore.octoperf.com/actions/Catalog.action,180,0,0
+1637842160077,180,SignOut-0-0,302,,PetShopThreadGroup 1-1,,true,,293,800,1,1,https://petstore.octoperf.com/actions/Account.action?signoff=,180,0,0
+1637842160257,179,SignOut-0-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,178,0,0
+1637842160436,752,SignOut-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,180,0,0
+1637842161194,1,Debug Sampler,200,OK,PetShopThreadGroup 1-1,text,true,,329,0,1,1,null,0,0,0
+1637842232648,1486,SignIn-0,200,,PetShopThreadGroup 1-1,text,true,,1442,667,1,1,https://petstore.octoperf.com/,1486,0,1310
+1637842234151,174,SignIn-1,200,,PetShopThreadGroup 1-1,text,true,,5419,737,1,1,https://petstore.octoperf.com/actions/Catalog.action,173,0,0
+1637842234325,176,SignIn-2,200,,PetShopThreadGroup 1-1,text,true,,4410,771,1,1,https://petstore.octoperf.com/actions/Account.action?signonForm=,176,0,0
+1637842234502,347,SignIn-3,200,,PetShopThreadGroup 1-1,text,true,,5897,2075,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=B2CCC9987C1BBEF28194866AA2177B06,177,0,0
+1637842234502,177,SignIn-3-0,302,,PetShopThreadGroup 1-1,,true,,337,1146,1,1,https://petstore.octoperf.com/actions/Account.action,177,0,0
+1637842234681,168,SignIn-3-1,200,,PetShopThreadGroup 1-1,text,true,,5560,929,1,1,https://petstore.octoperf.com/actions/Catalog.action;jsessionid=B2CCC9987C1BBEF28194866AA2177B06,168,0,0
+1637842234850,167,SignIn-4,200,,PetShopThreadGroup 1-1,text,true,,5419,797,1,1,https://petstore.octoperf.com/actions/Catalog.action,167,0,0
+1637842235018,164,BuyCat-0,200,,PetShopThreadGroup 1-1,text,true,,4019,789,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS,164,0,0
+1637842235182,168,BuyCat-1,200,,PetShopThreadGroup 1-1,text,true,,4551,822,1,1,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=FL-DSH-01,168,0,0
+1637842235350,339,SignOut-0,200,,PetShopThreadGroup 1-1,text,true,,5712,1591,1,1,https://petstore.octoperf.com/actions/Catalog.action,168,0,0
+1637842235350,168,SignOut-0-0,302,,PetShopThreadGroup 1-1,,true,,293,800,1,1,https://petstore.octoperf.com/actions/Account.action?signoff=,168,0,0
+1637842235518,171,SignOut-0-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,171,0,0
+1637842235690,172,SignOut-1,200,,PetShopThreadGroup 1-1,text,true,,5419,791,1,1,https://petstore.octoperf.com/actions/Catalog.action,171,0,0
+1637842235866,1,Debug Sampler,200,OK,PetShopThreadGroup 1-1,text,true,,329,0,1,1,null,0,0,0
